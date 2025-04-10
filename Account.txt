@@ -1,0 +1,4 @@
+100 : manjeet : 1600
+101 : amitkumar : 1600
+102 : karankhundia : 10000
+103 : arjun : 2000
